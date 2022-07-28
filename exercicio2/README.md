@@ -1,6 +1,6 @@
 # Exercício 2
 
-Escreva um código que receba três constantes. Uma idade, uma booleano que responda se a pessoa terminou ou não o ensino médio, e um booleano que responda se a pessoa está cursando alguma faculdade.
+Escreva um código que receba três valores. Uma idade, uma booleano que responda se a pessoa terminou ou não o ensino médio, e um booleano que responda se a pessoa está cursando alguma faculdade.
 
 Crie um `if` para cada variável, checando as seguintes afirmacões:
 - Se a pessoa tem 18 anos ou mais;
